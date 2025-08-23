@@ -1,5 +1,5 @@
 # dotfile
 
 ## Requirements
-'''bash
+'''bash  
 sudo pacman -S firefox lutris steam
