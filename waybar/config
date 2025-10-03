@@ -35,8 +35,9 @@
 "modules-right": [
 	//"mpris",
 	//"custom/separator#dot-line",
+	"memory",
+	"cpu",
 	"group/notify",
-	"battery",
 	"custom/separator#blank",  
 	"group/audio",
 	"custom/separator#blank",
